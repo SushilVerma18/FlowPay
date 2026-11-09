@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/dashboard.png" alt="FlowPay Merchant Dashboard" width="100%" />
+  <img width="1600" height="906" alt="WhatsApp Image 2026-11-09 at 9 07 30 PM" src="https://github.com/user-attachments/assets/f57a0ca5-ca80-4849-819f-e4f4f74b6fbe" />
+
 </p>
 
 <p align="center">
