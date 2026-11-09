@@ -854,18 +854,16 @@ The following improvements are planned to make FlowPay's end-to-end workflow mor
 ---
 
 ## ScreenShots 
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 48 52 PM" src="https://github.com/user-attachments/assets/c9730d1b-3937-48b8-87c9-770ce473f584" />
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 18 25 PM" src="https://github.com/user-attachments/assets/403eb75c-4ada-4065-a196-831459fd675f" />
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 19 00 PM" src="https://github.com/user-attachments/assets/f86d53f2-dd51-48b0-9b5a-b2d4c04cb91c" />
-
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 19 08 PM" src="https://github.com/user-attachments/assets/0e4565f0-13b5-4440-9b7b-bd0cd556ef51" />
-
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 20 13 PM" src="https://github.com/user-attachments/assets/d998de72-d06a-43d0-ae0b-c0a173074fe4" />
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 20 24 PM" src="https://github.com/user-attachments/assets/aff670fe-67d5-49ca-b104-e1d13ca58f40" />
-
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 20 36 PM" src="https://github.com/user-attachments/assets/a5296e0f-efc3-4ba4-996b-84fa793210d8" />
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 20 54 PM" src="https://github.com/user-attachments/assets/42a953be-e4a1-4c22-a71c-0af914fbec5c" />
-<img width="1470" height="956" alt="Screenshot 2026-11-09 at 8 21 31 PM" src="https://github.com/user-attachments/assets/7364e811-faf3-42de-9f1a-e5ca8644b15a" />
+<img width="1600" height="850" alt="WhatsApp Image 2026-11-09 at 9 04 28 PM" src="https://github.com/user-attachments/assets/0ffe425c-b839-4e66-87b0-f562c2c922c5" />
+<img width="1600" height="909" alt="WhatsApp Image 2026-11-09 at 9 05 25 PM" src="https://github.com/user-attachments/assets/90d42aac-139f-4adb-8d8a-203c89cf0cca" />
+<img width="1600" height="908" alt="WhatsApp Image 2026-11-09 at 9 06 41 PM" src="https://github.com/user-attachments/assets/ffcc99b5-9cdc-4a3a-a3dd-0a967ae5b987" />
+<img width="1600" height="906" alt="WhatsApp Image 2026-11-09 at 9 07 30 PM" src="https://github.com/user-attachments/assets/27056a99-0eb9-4be7-b9e9-e2dbc77cb6d6" />
+<img width="1600" height="899" alt="WhatsApp Image 2026-11-09 at 9 08 53 PM" src="https://github.com/user-attachments/assets/ec184b65-5278-40e9-8ffd-dcfe7f9ee490" />
+<img width="1600" height="902" alt="WhatsApp Image 2026-11-09 at 9 09 30 PM" src="https://github.com/user-attachments/assets/80aacacd-fe4e-4e02-8985-151dd85ed818" />
+<img width="1600" height="906" alt="WhatsApp Image 2026-11-09 at 9 10 13 PM" src="https://github.com/user-attachments/assets/62b244a8-5c0a-4cd8-87ea-214e0dc8d5d5" />
+<img width="1600" height="906" alt="WhatsApp Image 2026-11-09 at 9 10 52 PM" src="https://github.com/user-attachments/assets/76ca53c1-4761-4f88-acdd-24b71bd6055e" />
+<img width="1600" height="909" alt="WhatsApp Image 2026-11-09 at 9 11 52 PM" src="https://github.com/user-attachments/assets/8762f60d-6c8e-4fc0-bd3f-7ce7d0d875b4" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-09 at 9 12 25 PM" src="https://github.com/user-attachments/assets/e289313f-0f9b-46cd-87ea-cca6ffde2c57" />
 
 ---
 
